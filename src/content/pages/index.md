@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Suishow Engineering
 tagline: Suishowのエンジニア情報ポータルサイト
-featuredImage: https://raw.githubusercontent.com/cryptomuskt/blog_v5/master/src/images/tech.png
+featuredImage: /assets/space_tech.png
 cta:
   ctaText: Suishowについて
   ctaLink: /about
