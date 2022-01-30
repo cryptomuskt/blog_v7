@@ -4,7 +4,7 @@ title: Openseaのハッキングの原因について色々と考察してみる
 slug: /minimalists-desk
 date: 2022-01-20 12:46
 description: NFT MarketPlaceを運営する身としてはとても気になる話題です。ざっくりと調査したのでまとめました
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/opensea_hacked.png
 ---
 <p>OpenSeaでNFTが不正に取引されたようです。(1)  <a href="https://gigazine.net/news/20220125-opensea-user-steal-nfts/" title="https://gigazine.net/news/20220125-opensea-user-steal-nfts/">Gigazineの記事</a><br>NFT MarketPlaceを運営する身としてはとても気になる話題です。ざっくりと調査したのでまとめました。</p>
 <!-- /wp:paragraph -->
