@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Suishow Engineering
 tagline: Suishowのエンジニア情報ポータルサイト
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: https://raw.githubusercontent.com/cryptomuskt/blog_v5/master/src/images/tech.png
 cta:
   ctaText: Suishowについて
   ctaLink: /about
